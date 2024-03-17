@@ -1,0 +1,27 @@
+/* Enter Transition */
+.melt-enter-active {
+    animation: melt-in 0.5s;
+}
+
+/* Leave Transition */
+.melt-leave-active {
+    animation: melt-out 0.5s;
+}
+
+@keyframes melt-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes melt-out {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
