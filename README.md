@@ -6,6 +6,8 @@ m'évoquer le chocolat-chaud. Cela m'évoque le calme et la sérénité. C'est t
 J'ai donc essayé de créer une scène de nature avec des animaux, un ciel de coucher de soleil, des bruits ambiants et une table de jardin ou serait
 posée ma tasse.
 
+Mon Canvas se trouve sur l'espace évaluation
+
 # intro-threejs
 
 ## Project setup
